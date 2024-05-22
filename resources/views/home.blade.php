@@ -30,6 +30,7 @@
     
 
 
+
         <body>
     <nav class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
         <div class="container px-5">
@@ -307,16 +308,23 @@
             </div>
         </section>
         <!-- Call to action section-->
-        <section class="cta">
-            <div class="cta-content">
-                <div class="container px-5">
-                    <h2 class="text-white display-1 lh-1 mb-4">
-                        Stop waiting.
-                        <br />
-                        Start Learn, Try and Pray.
-                   </div>
-            </div>
-        </section>
+
+<section class="cta">
+    <div class="cta-content">
+        <div class="container px-5">
+        <img src="landing-page/assets/img/Group 14.png" alt="..." style="height: 4rem" />
+            <h2 class="text-white display-1 lh-1 mb-4">
+          
+                Stop waiting.
+                <br />
+                Start Learn, Try and Pray.
+                <br />
+                Be a Champion Today!
+            </h2>
+        </div>
+    </div>
+             </section>
+
         <!-- App badge section-->
         <footer class="bg-gradient-primary-to-secondary py-4">
     <div class="container px-5">
@@ -326,6 +334,7 @@
                 <p class="mb-1"><strong>No. WhatsApp:</strong> +62 852 0495 7813</p>
                 <p class="mb-0"><strong>Lokasi:</strong> Jl. Citarung no.13 Panderejo, Banyuwangi</p>
             </div>
+            
             <div class="social-media d-flex align-items-center mb-4 mb-lg-0">
                 <a href="https://youtube.com" target="_blank" class="me-3">
                     <img src="landing-page/assets/img/youtube.png" alt="YouTube" class="social-icon">

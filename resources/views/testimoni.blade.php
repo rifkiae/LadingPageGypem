@@ -100,7 +100,7 @@
         <div class="header">
             <img src="landing-page/assets/img/me.jpg" alt="Lily Kalyca Gabriella">
             <h1>Lily Kalyca Gabriella</h1>
-            <p>"Olimpiade Gypem memberi saya kesempatan luar biasa untuk bertemu dan belajar dari peserta di seluruh Indonesia."</p>
+            <p>"Olimspiade Gypem memberi saya kesempatan luar biasa untuk bertemu dan belajar dari peserta di seluruh Indonesia."</p>
         </div>
         <div>
   </body>

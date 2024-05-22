@@ -1,1 +1,0 @@
-diarahkah ke appstore bagi pengguna iphone
